@@ -37,7 +37,7 @@ final class BFoot {
     */
     public static void main(final String[] args) {
         // variables
-        final double length; 
+        final double length;
 
         System.out.print("This program figures out the length of a wooden ");
         System.out.println("board that is 1 board foot in dimension. (1 ");
